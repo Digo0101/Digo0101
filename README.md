@@ -1,4 +1,4 @@
-### Oii! Eu sou
+### Oii! Eu sou o Rodrigo Martinez
 
 - 🔭 Hoje trabalho com Javascript
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
